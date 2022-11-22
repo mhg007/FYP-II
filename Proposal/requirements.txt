@@ -7,4 +7,23 @@
 7. Expected Outcomes
 8. Conclusion
 9. Gaint Chart
-10. References 
+10. References
+
+Taxonomy
+	classification, description, naming
+
+Physiology
+	Normal functions of living organisms
+	the study of life, specifically, how cells, tissues, and organisms function
+
+	https://www.physoc.org/explore-physiology/what-is-physiology/
+
+Morphology
+	Study of forms of things
+	Size, Shape, Structure, Relationship
+
+	Morphologists were originally concerned with the bones, muscles, blood vessels, 
+	and nerves comprised by the bodies of animals and the roots, stems, leaves, and flower parts 
+	comprised by the bodies of higher plants.
+
+	https://www.britannica.com/science/morphology-biology
